@@ -1,0 +1,68 @@
+Privacy Policy – Murugan Temples
+Effective from: 23 October 2026
+
+Murugan Temples (“the app”) is offered by ThiruKovilgal. We respect your privacy. This policy explains what information the app uses, why, where it is kept, and the choices you have. In short: the app has no account or login and does not run its own server. It is free and shows a limited number of advertisements from Google AdMob, which are described in section 9.
+
+1. No account, no personal profile
+  • You can use every feature without signing up or logging in.
+  • We do not ask for your name, phone number, email address or date of birth inside the app.
+  • We do not add analytics or tracking tools of our own. Advertising is provided by Google AdMob, which handles some device information as described in section 9.
+
+2. Information kept on your device
+  • The temple directory, devotional texts, Daily Murugan Vaakku, festivals and wallpapers are bundled inside the app and work offline.
+  • Your favorites, saved Vaakku, language, notification time, reading progress, bookmarks and japam counts are stored only on your device.
+  • This information is never uploaded. It is removed when you clear the app's data or uninstall the app.
+
+3. Location
+  • Location is used only when you open Nearby Temples or ask for distances, and only after you allow it. It is never used in the background.
+  • Distances are calculated on your device. Your location is not stored and is not sent to us or to anyone else.
+  • You can turn location access off at any time in your phone's settings; the rest of the app keeps working.
+
+4. Maps and directions
+  • When you view a map, the map images are downloaded from OpenFreeMap (map data © OpenStreetMap contributors). Like any website, their servers receive your IP address and the map area being displayed, but not your identity.
+  • When you tap Directions, the temple's location is passed to your maps app (for example Google Maps or Apple Maps). That app's own privacy policy applies.
+
+5. Notifications
+  • The app asks before turning notifications on (Allow, Don't Allow, or Don't ask again). The daily reminder stays off unless you allow it.
+  • The Daily Murugan Vaakku reminder is scheduled on your device at the time you choose. No server sends it and no notification token is collected.
+  • You can change the time or turn it off in Notification Settings, or in your phone's settings.
+
+6. Photos, saving and wallpapers
+  • When you save a wallpaper or a Vaakku image, it is written to your photo gallery. Permission is requested only when you save.
+  • Set Wallpaper (Android) applies the picture through the phone's own wallpaper service. Nothing is sent anywhere.
+  • In Help & Support you may choose screenshots with the system photo picker. The app can only see the images you pick, uses them only to attach to your email, and never uploads them.
+
+7. Help & Support emails
+  • Support requests are prepared in your own email app and are sent only when you press Send. The app does not send email by itself.
+  • The email contains what you typed, any screenshots you attached, the temple details you reported, the app version and the platform (Android or iOS). It does not include your location or device identifiers.
+  • We use support emails only to reply to you and to correct or improve the app. We do not sell or share them.
+
+8. Sharing and external links
+  • When you share a Vaakku, wallpaper or temple, the content goes only to the app you choose in the share sheet.
+  • Shared text ends with a link to Murugan Temples on Google Play. The link only notes what kind of item was shared (for example "wallpaper"), so we can see which shares help others find the app. It contains nothing about you.
+  • Songs open in the YouTube app or your browser, and the website link opens in your browser. Those services have their own privacy policies.
+
+9. Advertising (Google AdMob)
+  • The app shows a banner at the bottom of the Home, Arupadai Veedu list and details, temple details, Daily Murugan Vaakku, wallpaper gallery and full-screen wallpaper, nearby map, 108 Potri and Kavasam & Literature reading screens, and occasional clearly labelled “Ad” cards in the temple, nearby and festival lists. There are no full-screen, video-reward or app-open ads.
+  • No ads appear on the opening (splash) screen, Help & Support, About, this policy or settings.
+  • To show and measure ads and to prevent fraud, Google may collect and process information such as your device's advertising ID, IP address, device and app information, and how you interact with ads. Google's use is described at policies.google.com/technologies/partner-sites.
+  • Where the law requires it (for example in the EEA, the UK or Switzerland), Google's consent form asks for your choice before ads are personalised, and you can change it any time in More → Privacy Choices.
+  • You can reset or delete your advertising ID, or opt out of personalised ads, in your phone's settings (Android: Settings → Privacy → Ads).
+  • The app does not tell advertisers anything about your faith, the temples you view, your favorites or your location. Ads are limited to content rated suitable for general audiences.
+
+10. Permissions the app may ask for
+  • Location (while using the app) — nearby temples and distances.
+  • Notifications — the daily Vaakku reminder.
+  • Photos — saving images, and choosing screenshots for support.
+  • Set wallpaper (Android) — only when you use Set Wallpaper.
+  • Advertising ID (Android) — used by Google AdMob for ads, as described in section 9.
+  • Every permission is optional. If you decline, only that feature is unavailable.
+
+11. Children
+  • The app is a general devotional app for all ages and is not directed primarily at children. We do not knowingly collect personal information from children, and ads are limited to general-audience content.
+
+12. Changes to this policy
+  • If the way the app handles information changes, this policy will be updated in the app and the effective date at the top will change.
+
+13. Contact us
+  • Questions about privacy? Write to support.thirukovilgal@gmail.com or use More → Help & Support → General Enquiry → Privacy-related enquiry.
