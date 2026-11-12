@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+User-agent: Google-Display-Ads-Bot
+Allow: /app-ads.txt
